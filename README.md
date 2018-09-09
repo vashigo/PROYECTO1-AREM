@@ -2,6 +2,13 @@
 
 servidor Web (tipo Apache) en Java. Servidor capaz de entregar páginas html e imágenes tipo PNG atendiendo múltiples solicitudes no concurrentes.
 
+## Link Funcional Aplicacion Web en Heroku
+
+[con solo HTML](https://proyecto1-arem.herokuapp.com/index.html)
+
+[con solo .png](https://proyecto1-arem.herokuapp.com/imagen.png)
+
+
 ## EMPEZAR
 
 Copie el proyecto via git clone en cualquier diretorio para empezar a trabajar:
