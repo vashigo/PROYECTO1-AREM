@@ -25,8 +25,8 @@ class ResourceWriter {
      * .html o .png
      */
     private void errorType() {
-        PrintWriter out;
         try {
+            PrintWriter out;
             out = new PrintWriter(this.clientSocket.getOutputStream(), true);
             String outputLine = "HTTP/1.1 Erro Type Not Implemented\r\n"
                     + "Content-Type: text/html\r\n"
